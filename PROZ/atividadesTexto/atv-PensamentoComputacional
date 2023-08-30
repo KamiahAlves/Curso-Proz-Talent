@@ -1,0 +1,30 @@
+// PRIMEIRA ATIVIDADE
+
+Entrada: 
+Informe os gastos em do dia 
+
+Processamento: 
+A cada novo gasto adicione o valore em uma variável.
+Some os valores das entradas usando um contador para obter o total gasto no mês.
+
+Saída: 
+Mostre o total gasto no mês (por exemplo, "Você gastou um total de R$1000 neste mês.").
+
+//SEGUNDA ATIVIDADE
+
+avaliacaoFilme: inteiro
+mediaFilme: real
+comentariosFilme: caracteres
+classificacaoIdade: boleano
+nomeFilme: caractere
+
+Entrada
+  - Solicite o nome do filme e guarde na variavel nomeFilme
+  - Solicite a nota do filme de 0 até 5 e guarde na variavel avaliacaoFilme
+  - Solicite o comentarios e guarde na variável comentariosFilme
+  - Informe sua idade
+Processamento
+  - some os valores informados na variavel avaliacaoFilme e calcule a média salvando na variavel mediaFilme
+  - confira se o usuario pode assistir ou não o filme de acordo com a variavel classificacaoIdade, usando um if
+Saída
+  - informe dados salvos nas variaveis
