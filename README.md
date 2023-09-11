@@ -6,6 +6,9 @@ Importante resaltar que as respostas são com base no meu aprendizado, portanto 
 
 Incrição: https://pages.prozeducacao.com.br/lp-proz-tecnologia-talento-cloud
 
+## Linguagens Usadas
+![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
+
 ## Aprendizados
 
 **Lógica Computacional:**
