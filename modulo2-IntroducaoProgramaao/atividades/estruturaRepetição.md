@@ -2,7 +2,7 @@
 
 ## Aprendendo Estruturas de Repetição em Python
 
-Neste arquivo, você encontrará informações sobre estruturas de repetição em Python, explicadas de forma simples para iniciantes.
+Informações sobre estruturas de repetição em Python, explicadas na aula de hoje.
 
 ## Estruturas de Repetição em Python
 
@@ -121,9 +121,8 @@ Neste exemplo, quando `numero` se torna igual a 3, o `break` é acionado, e o lo
 
 # 🔗 Link com as atividades da aula
 
-👩‍🏫 **atividades:** https://colab.research.google.com/drive/1190ZhtyzMV7uK0-g95oO5fSLLdomCm1n?usp=sharing
-
-💻 **para treinar:** https://studio.code.org/s/course4/lessons/9/levels/1
+- 👩‍🏫 **atividades:** https://colab.research.google.com/drive/1190ZhtyzMV7uK0-g95oO5fSLLdomCm1n?usp=sharing
+- 💻 **para treinar:** https://studio.code.org/s/course4/lessons/9/levels/1
 
 
 
